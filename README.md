@@ -1,6 +1,6 @@
 This application was developed on the fork of https://github.com/tenpages/us-level.
 
-Maps available at at https://vvkrddy.github.io/apps/travel-level/.
+Maps available at https://vvkrddy.github.io/apps/travel-level/.
 
 Find license at https://vvkrddy.github.io/apps/travel-level/license.
 
