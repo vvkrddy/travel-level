@@ -4,6 +4,8 @@ Maps available at https://vvkrddy.github.io/apps/travel-level/.
 
 Find license at https://vvkrddy.github.io/apps/travel-level/license.
 
+Find GitHub repository at https://github.com/vvkrddy/travel-level. 
+
 ### Instructions to use
 
 - Click on any region to show clickable categories for selection.
