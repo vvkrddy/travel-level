@@ -1,6 +1,8 @@
 This application was developed on the fork of https://github.com/tenpages/us-level.
 
-Find license at https://vvkrddy.github.io/apps/travel-score/license.
+Maps available at at https://vvkrddy.github.io/apps/travel-level/.
+
+Find license at https://vvkrddy.github.io/apps/travel-level/license.
 
 ### Instructions to use
 
